@@ -10,7 +10,7 @@ Customer Success professional based in Israel, transitioning into AI Implementat
 
 ## Currently building
 
-- A 6-bot Claude Managed Agents system for content and job search automation
+- A 8-bot Claude Managed Agents system for content and job search automation
 - Two content brands: [ElleMentys](https://github.com/sartoriomi-ops/ellementys-showcase) (AI tools education) and [GuiaOlim](https://github.com/sartoriomi-ops/guiaolim-showcase) (Israel guide for Latin American olim)
 
 ## Tech I use
