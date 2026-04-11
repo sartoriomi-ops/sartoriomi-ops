@@ -30,4 +30,3 @@ Customer Success professional based in Israel, transitioning into AI Implementat
 ## Reach me
 
 - **LinkedIn:** [michelle-sartorio](https://linkedin.com/in/michelle-sartorio)
-- **Email:** sartoriomi@gmail.com
