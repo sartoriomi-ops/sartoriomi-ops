@@ -26,7 +26,6 @@ Customer Success professional based in Israel, transitioning into AI Implementat
 | 📱 | [subly-showcase](https://github.com/sartoriomi-ops/subly-showcase) | PWA subscription tracker |
 | 📚 | [ellementys-showcase](https://github.com/sartoriomi-ops/ellementys-showcase) | AI education brand |
 | 🌍 | [guiaolim-showcase](https://github.com/sartoriomi-ops/guiaolim-showcase) | Olim resource hub |
-| 🛠️ | [skills-and-experiments](https://github.com/sartoriomi-ops/skills-and-experiments) | Claude skills and small tools |
 
 ## Reach me
 
