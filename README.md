@@ -2,6 +2,10 @@
 
 Technical Customer Success and AI Implementation. I build small, useful tools that solve real problems.
 
+### 🌐 Portfolio: [michellesartorio-site.vercel.app](https://michellesartorio-site.vercel.app)
+
+**AI Implementation & Customer Success.** Building ElleMentys & GuiaOlim.
+
 ## What I do
 
 - Customer Success and Retention (3.5+ years, B2C SaaS)
