@@ -2,6 +2,7 @@
 
 **AI Implementation & Customer Success.** Building ElleMentys & GuiaOlim.
 
+
 # Hi, I'm Michelle 👋
 
 Technical Customer Success and AI Implementation. I build small, useful tools that solve real problems.
