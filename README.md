@@ -1,4 +1,4 @@
-### 🌐 Portfolio: [michellesartorio-site.vercel.app](https://michellesartorio-site.vercel.app)
+### 🌐 Portfolio:  https://michellesartorio.com
 
 **AI Implementation & Customer Success.** Building ElleMentys & GuiaOlim.
 
