@@ -27,7 +27,7 @@ Technical Customer Success and AI Implementation. I build small, useful tools th
 | | Project | Description |
 |---|---|---|
 | 🎨 | [slide-maker-showcase](https://github.com/sartoriomi-ops/slide-maker-showcase) | Multi-brand carousel generator on Vercel |
-| 🤖 | [bots-master-showcase](https://github.com/sartoriomi-ops/bots-master-showcase) | Wiki-first 6-bot architecture |
+| 🤖 | [bots-master-showcase](https://github.com/sartoriomi-ops/bots-master-showcase) | Wiki-first 8-bot architecture |
 | 📱 | [subly-showcase](https://github.com/sartoriomi-ops/subly-showcase) | PWA subscription tracker |
 | 📚 | [ellementys-showcase](https://github.com/sartoriomi-ops/ellementys-showcase) | AI education brand |
 | 🌍 | [guiaolim-showcase](https://github.com/sartoriomi-ops/guiaolim-showcase) | Olim resource hub |
