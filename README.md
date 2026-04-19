@@ -43,7 +43,7 @@ Technical Customer Success professional transitioning into AI Ops and implementa
 
 ## Featured projects
 
-| | Project | Description | Live |
+| | Project | Description
 |---|---|---|---|
 | 🎨 | [slide-maker-showcase](https://github.com/sartoriomi-ops/slide-maker-showcase) | Multi-brand carousel generator. 7 palettes, 5 style variants, 4 slide types.
 | 🤖 | [bots-master-showcase](https://github.com/sartoriomi-ops/bots-master-showcase) | 8-bot automation architecture (scoping phase)
