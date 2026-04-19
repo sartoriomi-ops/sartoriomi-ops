@@ -43,13 +43,14 @@ Technical Customer Success professional transitioning into AI Ops and implementa
 
 ## Featured projects
 
-| | Project | Description
-|---|---|---|---|
-| 🎨 | [slide-maker-showcase](https://github.com/sartoriomi-ops/slide-maker-showcase) | Multi-brand carousel generator. 7 palettes, 5 style variants, 4 slide types.
-| 🤖 | [bots-master-showcase](https://github.com/sartoriomi-ops/bots-master-showcase) | 8-bot automation architecture (scoping phase)
-| 📱 | [subly-showcase](https://github.com/sartoriomi-ops/subly-showcase) | PWA subscription tracker. Google OAuth, Supabase RLS, dark mode, 53+ versions.
-| 📚 | [ellementys-showcase](https://github.com/sartoriomi-ops/ellementys-showcase) | AI education brand with interactive HTML guides
-| 🌍 | [guiaolim-showcase](https://github.com/sartoriomi-ops/guiaolim-showcase) | Olim resource hub in neutral Spanish
+| | Project | Description |
+|---|---|---|
+| 🎨 | [slide-maker-showcase](https://github.com/sartoriomi-ops/slide-maker-showcase) | Multi-brand carousel generator. 7 palettes, 5 style variants, 4 slide types. |
+| 🤖 | [bots-master-showcase](https://github.com/sartoriomi-ops/bots-master-showcase) | 8-bot automation architecture (scoping phase) |
+| 📱 | [subly-showcase](https://github.com/sartoriomi-ops/subly-showcase) | PWA subscription tracker. Google OAuth, Supabase RLS, dark mode, 53+ versions. |
+| 📚 | [ellementys-showcase](https://github.com/sartoriomi-ops/ellementys-showcase) | AI education brand with interactive HTML guides |
+| 🌍 | [guiaolim-showcase](https://github.com/sartoriomi-ops/guiaolim-showcase) | Olim resource hub in neutral Spanish |
+
 
 ---
 
