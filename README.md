@@ -8,7 +8,7 @@
 
 ## About me
 
-Technical Customer Success professional transitioning into AI Ops and implementation roles. I build small, useful tools that solve real problems — then automate everything around them.
+Technical Customer Success professional transitioning into AI Ops and implementation roles. I build small, useful tools that solve real problems, then automate everything around them.
 
 **Key numbers:**
 - 🔁 **95% retention rate** across 200+ monthly B2C SaaS accounts (3.5+ years)
@@ -35,9 +35,9 @@ Technical Customer Success professional transitioning into AI Ops and implementa
 
 ## Currently building
 
-- 🤖 **8-bot Claude Managed Agents system** for content and job search automation ([architecture repo](https://github.com/sartoriomi-ops/bots-master-showcase) — Week 0, scoping phase)
-- 📚 **[ElleMentys](https://github.com/sartoriomi-ops/ellementys-showcase)** — AI tools education for beginners. First interactive guide shipped.
-- 🌍 **[GuiaOlim](https://github.com/sartoriomi-ops/guiaolim-showcase)** — Israel resource hub for Latin American olim. Interactive guide in progress.
+- 🤖 **8-bot Claude Managed Agents system** for content and job search automation ([architecture repo](https://github.com/sartoriomi-ops/bots-master-showcase) | Week 0, scoping phase)
+- 📚 **[ElleMentys](https://github.com/sartoriomi-ops/ellementys-showcase)** | AI tools education for beginners. First interactive guide shipped.
+- 🌍 **[GuiaOlim](https://github.com/sartoriomi-ops/guiaolim-showcase)** | Israel resource hub for Latin American olim. Interactive guide in progress.
 
 ---
 
