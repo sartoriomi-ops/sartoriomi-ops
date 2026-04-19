@@ -45,6 +45,7 @@ Technical Customer Success professional transitioning into AI Ops and implementa
 
 | | Project | Description |
 |---|---|---|
+| 🧪 | [ai-ops-case-studies](https://github.com/sartoriomi-ops/ai-ops-case-studies) | Production AI automation case studies with flow diagrams and results |
 | 🎨 | [slide-maker-showcase](https://github.com/sartoriomi-ops/slide-maker-showcase) | Multi-brand carousel generator. 7 palettes, 5 style variants, 4 slide types. |
 | 🤖 | [bots-master-showcase](https://github.com/sartoriomi-ops/bots-master-showcase) | 8-bot automation architecture (scoping phase) |
 | 📱 | [subly-showcase](https://github.com/sartoriomi-ops/subly-showcase) | PWA subscription tracker. Google OAuth, Supabase RLS, dark mode, 53+ versions. |
