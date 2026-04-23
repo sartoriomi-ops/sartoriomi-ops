@@ -12,7 +12,7 @@ Technical Customer Success professional transitioning into AI Ops and implementa
 
 **Key numbers:**
 - 🔁 **95% retention rate** across 200+ monthly B2C SaaS accounts (3.5+ years)
-- 🤖 **8 production automations** running on Make.com with Claude API and Gemini API
+- 🤖 **8 production Make.com automations** running today.
 - 🌐 **Bilingual** content systems in English and Spanish
 
 ---
@@ -35,8 +35,8 @@ Technical Customer Success professional transitioning into AI Ops and implementa
 
 ## Currently building
 
-- 🤖 **8-bot Claude Managed Agents system** for content and job search automation ([architecture repo](https://github.com/sartoriomi-ops/bots-master-showcase) | Week 0, scoping phase)
-- 📚 **[ElleMentys](https://github.com/sartoriomi-ops/ellementys-showcase)** | AI tools education for beginners. First interactive guide shipped.
+- 🤖 **8-bot Claude Managed Agents system** — architecture phase, 0 of 8 built ([architecture repo](https://github.com/sartoriomi-ops/bots-master-showcase))
+- 📚 **[ElleMentys](https://github.com/sartoriomi-ops/ellementys-showcase)** — e-learning brand. Landing page and waitlist in active development. First guide in draft.
 - 🌍 **[GuiaOlim](https://github.com/sartoriomi-ops/guiaolim-showcase)** | Israel resource hub for Latin American olim. Interactive guide in progress.
 
 ---
