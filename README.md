@@ -36,7 +36,7 @@ Technical Customer Success professional transitioning into AI Ops and implementa
 ## Currently building
 
 - 🤖 **8-bot Claude Managed Agents system** — architecture phase, 0 of 8 built ([architecture repo](https://github.com/sartoriomi-ops/bots-master-showcase))
-- 📚 **[ElleMentys](https://github.com/sartoriomi-ops/ellementys-showcase)** — e-learning brand. Landing page and waitlist in active development. First guide in draft.
+- 📚 **[ElleMentys](https://github.com/sartoriomi-ops/ellementys-showcase)** - e-learning brand. Landing page in planning, domain secured. First guide draft complete.
 - 🌍 **[GuiaOlim](https://github.com/sartoriomi-ops/guiaolim-showcase)** | Israel resource hub for Latin American olim. Interactive guide in progress.
 
 ---
