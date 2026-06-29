@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=700&lines=AI+Implementation+%26+Customer+Success;Make.com+%2B+Claude+API+Automation+Builder;95%25+Retention+%C2%B7+200%2B+Accounts+Managed)
 
-**AI Implementation & Customer Success.** Building ElleMentys & GuiaOlim.
+**AI Implementation & Customer Success.** 
 
 ---
 
